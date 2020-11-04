@@ -2,7 +2,7 @@ package com.shisen.jvm.guigu.runtime;
 
 /**
  * <pre>
- * Description  栈上分配
+ * Description  逃逸分析 - 栈上分配
  * -Xms1G -Xmx1G -XX:-DoEscapeAnalysis -XX:+PrintGCDetails
  * @author shishi
  * 2020/9/16 18:16
